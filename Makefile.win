@@ -1,0 +1,43 @@
+# Project: Projekt
+# Makefile created by Dev-C++ 5.11
+
+CPP      = g++.exe
+CC       = gcc.exe
+WINDRES  = windres.exe
+OBJ      = main.o Matrix_rep.o Console_app.o Fifo_queue.o N_list_rep.o Reader.o
+LINKOBJ  = main.o Matrix_rep.o Console_app.o Fifo_queue.o N_list_rep.o Reader.o
+LIBS     = -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc
+INCS     = -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include"
+CXXINCS  = -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"
+BIN      = Projekt.exe
+CXXFLAGS = $(CXXINCS) 
+CFLAGS   = $(INCS) 
+RM       = rm.exe -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before $(BIN) all-after
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o $(BIN) $(LIBS)
+
+main.o: main.cpp
+	$(CPP) -c main.cpp -o main.o $(CXXFLAGS)
+
+Matrix_rep.o: Matrix_rep.cpp
+	$(CPP) -c Matrix_rep.cpp -o Matrix_rep.o $(CXXFLAGS)
+
+Console_app.o: Console_app.cpp
+	$(CPP) -c Console_app.cpp -o Console_app.o $(CXXFLAGS)
+
+Fifo_queue.o: Fifo_queue.cpp
+	$(CPP) -c Fifo_queue.cpp -o Fifo_queue.o $(CXXFLAGS)
+
+N_list_rep.o: N_list_rep.cpp
+	$(CPP) -c N_list_rep.cpp -o N_list_rep.o $(CXXFLAGS)
+
+Reader.o: Reader.cpp
+	$(CPP) -c Reader.cpp -o Reader.o $(CXXFLAGS)

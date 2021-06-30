@@ -1,0 +1,322 @@
+Postac macierzowa: 
+
+Prim: i: 25 d: 20 czas: 0.066
+Kruskal: i: 25 d: 20 czas: 0.0528
+Djkstra: i: 25 d: 20 czas: 0.0091
+Ford bellman: i: 25 d: 20 czas: 0.0444
+
+
+Postac listowa: 
+
+Prim: i: 25 d: 20 czas: 0.0896
+Kruskal: i: 25 d: 20 czas: 0.0551
+Djkstra: i: 25 d: 20 czas: 0.0211
+Ford bellman: i: 25 d: 20 czas: 0.2132
+
+
+Postac macierzowa: 
+
+Prim: i: 25 d: 60 czas: 0.0482
+Kruskal: i: 25 d: 60 czas: 0.1084
+Djkstra: i: 25 d: 60 czas: 0.0111
+Ford bellman: i: 25 d: 60 czas: 0.0673
+
+
+Postac listowa: 
+
+Prim: i: 25 d: 60 czas: 0.1963
+Kruskal: i: 25 d: 60 czas: 0.0993
+Djkstra: i: 25 d: 60 czas: 0.0349
+Ford bellman: i: 25 d: 60 czas: 0.5213
+
+
+Postac macierzowa: 
+
+Prim: i: 25 d: 99 czas: 0.0352
+Kruskal: i: 25 d: 99 czas: 0.1462
+Djkstra: i: 25 d: 99 czas: 0.0105
+Ford bellman: i: 25 d: 99 czas: 0.0635
+
+
+Postac listowa: 
+
+Prim: i: 25 d: 99 czas: 0.375
+Kruskal: i: 25 d: 99 czas: 0.1534
+Djkstra: i: 25 d: 99 czas: 0.0343
+Ford bellman: i: 25 d: 99 czas: 0.5527
+Postac macierzowa: 
+
+Prim: i: 50 d: 20 czas: 0.2664
+Kruskal: i: 50 d: 20 czas: 0.137
+Djkstra: i: 50 d: 20 czas: 0.0268
+Ford bellman: i: 50 d: 20 czas: 0.4125
+
+
+Postac listowa: 
+
+Prim: i: 50 d: 20 czas: 0.9743
+Kruskal: i: 50 d: 20 czas: 0.126
+Djkstra: i: 50 d: 20 czas: 0.1089
+Ford bellman: i: 50 d: 20 czas: 4.0314
+
+
+Postac macierzowa: 
+
+Prim: i: 50 d: 60 czas: 0.3107
+Kruskal: i: 50 d: 60 czas: 0.3441
+Djkstra: i: 50 d: 60 czas: 0.0336
+Ford bellman: i: 50 d: 60 czas: 0.7238
+
+
+Postac listowa: 
+
+Prim: i: 50 d: 60 czas: 3.1325
+Kruskal: i: 50 d: 60 czas: 0.3307
+Djkstra: i: 50 d: 60 czas: 0.2093
+Ford bellman: i: 50 d: 60 czas: 9.9141
+
+
+Postac macierzowa: 
+
+Prim: i: 50 d: 99 czas: 0.1808
+Kruskal: i: 50 d: 99 czas: 0.5298
+Djkstra: i: 50 d: 99 czas: 0.0259
+Ford bellman: i: 50 d: 99 czas: 0.4342
+
+
+Postac listowa: 
+
+Prim: i: 50 d: 99 czas: 4.4562
+Kruskal: i: 50 d: 99 czas: 0.513
+Djkstra: i: 50 d: 99 czas: 0.2212
+Ford bellman: i: 50 d: 99 czas: 9.914
+Postac macierzowa: 
+
+Prim: i: 75 d: 20 czas: 0.7825
+Kruskal: i: 75 d: 20 czas: 0.2772
+Djkstra: i: 75 d: 20 czas: 0.0538
+Ford bellman: i: 75 d: 20 czas: 1.5527
+
+
+Postac listowa: 
+
+Prim: i: 75 d: 20 czas: 4.2558
+Kruskal: i: 75 d: 20 czas: 0.2829
+Djkstra: i: 75 d: 20 czas: 0.2943
+Ford bellman: i: 75 d: 20 czas: 20.4818
+
+
+Postac macierzowa: 
+
+Prim: i: 75 d: 60 czas: 0.983
+Kruskal: i: 75 d: 60 czas: 0.8617
+Djkstra: i: 75 d: 60 czas: 0.0676
+Ford bellman: i: 75 d: 60 czas: 2.6596
+
+
+Postac listowa: 
+
+Prim: i: 75 d: 60 czas: 14.5206
+Kruskal: i: 75 d: 60 czas: 0.7442
+Djkstra: i: 75 d: 60 czas: 0.6785
+Ford bellman: i: 75 d: 60 czas: 50.5538
+
+
+Postac macierzowa: 
+
+Prim: i: 75 d: 99 czas: 0.5807
+Kruskal: i: 75 d: 99 czas: 1.1838
+Djkstra: i: 75 d: 99 czas: 0.0485
+Ford bellman: i: 75 d: 99 czas: 1.4413
+
+
+Postac listowa: 
+
+Prim: i: 75 d: 99 czas: 22.6679
+Kruskal: i: 75 d: 99 czas: 1.4807
+Djkstra: i: 75 d: 99 czas: 0.7671
+Ford bellman: i: 75 d: 99 czas: 53.156
+Postac macierzowa: 
+
+Prim: i: 100 d: 20 czas: 1.8413
+Kruskal: i: 100 d: 20 czas: 0.4825
+Djkstra: i: 100 d: 20 czas: 0.0874
+Ford bellman: i: 100 d: 20 czas: 4.3769
+
+
+Postac listowa: 
+
+Prim: i: 100 d: 20 czas: 14.485
+Kruskal: i: 100 d: 20 czas: 0.4792
+Djkstra: i: 100 d: 20 czas: 0.7441
+Ford bellman: i: 100 d: 20 czas: 72.4283
+
+
+Postac macierzowa: 
+
+Prim: i: 100 d: 60 czas: 2.4442
+Kruskal: i: 100 d: 60 czas: 1.3418
+Djkstra: i: 100 d: 60 czas: 0.1155
+Ford bellman: i: 100 d: 60 czas: 6.9818
+
+
+Postac listowa: 
+
+Prim: i: 100 d: 60 czas: 47.6159
+Kruskal: i: 100 d: 60 czas: 1.282
+Djkstra: i: 100 d: 60 czas: 1.6439
+Ford bellman: i: 100 d: 60 czas: 152.296
+
+
+Postac macierzowa: 
+
+Prim: i: 100 d: 99 czas: 1.1958
+Kruskal: i: 100 d: 99 czas: 2.0802
+Djkstra: i: 100 d: 99 czas: 0.0818
+Ford bellman: i: 100 d: 99 czas: 3.6131
+
+
+Postac listowa: 
+
+Prim: i: 100 d: 99 czas: 75.8433
+Kruskal: i: 100 d: 99 czas: 2.0682
+Djkstra: i: 100 d: 99 czas: 1.8568
+Ford bellman: i: 100 d: 99 czas: 174.068
+Postac macierzowa: 
+
+Prim: i: 125 d: 20 czas: 3.8664
+Kruskal: i: 125 d: 20 czas: 0.7623
+Djkstra: i: 125 d: 20 czas: 0.1344
+Ford bellman: i: 125 d: 20 czas: 7.917
+
+
+Postac listowa: 
+
+Prim: i: 125 d: 20 czas: 36.8495
+Kruskal: i: 125 d: 20 czas: 0.8413
+Djkstra: i: 125 d: 20 czas: 1.3846
+Ford bellman: i: 125 d: 20 czas: 171.992
+
+
+Postac macierzowa: 
+
+Prim: i: 125 d: 60 czas: 4.7765
+Kruskal: i: 125 d: 60 czas: 3.3166
+Djkstra: i: 125 d: 60 czas: 0.3296
+Ford bellman: i: 125 d: 60 czas: 14.2325
+
+
+Postac listowa: 
+
+Prim: i: 125 d: 60 czas: 111.421
+Kruskal: i: 125 d: 60 czas: 2.0205
+Djkstra: i: 125 d: 60 czas: 3.1679
+Ford bellman: i: 125 d: 60 czas: 389.492
+
+
+Postac macierzowa: 
+
+Prim: i: 125 d: 99 czas: 2.6131
+Kruskal: i: 125 d: 99 czas: 3.773
+Djkstra: i: 125 d: 99 czas: 0.1294
+Ford bellman: i: 125 d: 99 czas: 7.6868
+
+
+Postac listowa: 
+
+Prim: i: 125 d: 99 czas: 203.701
+Kruskal: i: 125 d: 99 czas: 3.3082
+Djkstra: i: 125 d: 99 czas: 4.8121
+Ford bellman: i: 125 d: 99 czas: 457.992
+Postac macierzowa: 
+
+Prim: i: 150 d: 20 czas: 6.6514
+Kruskal: i: 150 d: 20 czas: 1.0965
+Djkstra: i: 150 d: 20 czas: 0.2918
+Ford bellman: i: 150 d: 20 czas: 13.3166
+
+
+Postac listowa: 
+
+Prim: i: 150 d: 20 czas: 76.3615
+Kruskal: i: 150 d: 20 czas: 1.0703
+Djkstra: i: 150 d: 20 czas: 2.4951
+Ford bellman: i: 150 d: 20 czas: 355.896
+
+
+Postac macierzowa: 
+
+Prim: i: 150 d: 60 czas: 8.679
+Kruskal: i: 150 d: 60 czas: 3.0072
+Djkstra: i: 150 d: 60 czas: 0.2525
+Ford bellman: i: 150 d: 60 czas: 23.373
+
+
+Postac listowa: 
+
+Prim: i: 150 d: 60 czas: 225.753
+Kruskal: i: 150 d: 60 czas: 2.9376
+Djkstra: i: 150 d: 60 czas: 5.8686
+Ford bellman: i: 150 d: 60 czas: 877.214
+
+
+Postac macierzowa: 
+
+Prim: i: 150 d: 99 czas: 3.9839
+Kruskal: i: 150 d: 99 czas: 4.8107
+Djkstra: i: 150 d: 99 czas: 0.1696
+Ford bellman: i: 150 d: 99 czas: 11.72
+
+
+Postac listowa: 
+
+Prim: i: 150 d: 99 czas: 384.108
+Kruskal: i: 150 d: 99 czas: 4.9239
+Djkstra: i: 150 d: 99 czas: 6.5894
+Ford bellman: i: 150 d: 99 czas: 984.56
+Postac macierzowa: 
+
+Prim: i: 175 d: 20 czas: 10.5987
+Kruskal: i: 175 d: 20 czas: 1.5479
+Djkstra: i: 175 d: 20 czas: 0.2561
+Ford bellman: i: 175 d: 20 czas: 21.8826
+
+
+Postac listowa: 
+
+Prim: i: 175 d: 20 czas: 137.229
+Kruskal: i: 175 d: 20 czas: 1.5331
+Djkstra: i: 175 d: 20 czas: 4.0759
+Ford bellman: i: 175 d: 20 czas: 642.921
+
+
+Postac macierzowa: 
+
+Prim: i: 175 d: 60 czas: 13.9526
+Kruskal: i: 175 d: 60 czas: 4.176
+Djkstra: i: 175 d: 60 czas: 0.3381
+Ford bellman: i: 175 d: 60 czas: 36.9823
+
+
+Postac listowa: 
+
+Prim: i: 175 d: 60 czas: 429.852
+Kruskal: i: 175 d: 60 czas: 3.9455
+Djkstra: i: 175 d: 60 czas: 9.5701
+Ford bellman: i: 175 d: 60 czas: 1683.6
+
+
+Postac macierzowa: 
+
+Prim: i: 175 d: 99 czas: 6.3455
+Kruskal: i: 175 d: 99 czas: 6.7124
+Djkstra: i: 175 d: 99 czas: 0.2279
+Ford bellman: i: 175 d: 99 czas: 19.5439
+
+
+Postac listowa: 
+
+Prim: i: 175 d: 99 czas: 709.933
+Kruskal: i: 175 d: 99 czas: 6.648
+Djkstra: i: 175 d: 99 czas: 11.4665
+Ford bellman: i: 175 d: 99 czas: 1839.47

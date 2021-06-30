@@ -1,0 +1,120 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/kacpe/Downloads/sarzynski_projekt2 (1)/sdizo/Console_app.cpp
+Console_app.h
+C:/Users/kacpe/Downloads/sarzynski_projekt2 (1)/sdizo/Console_app.h
+
+C:/Users/kacpe/Downloads/sarzynski_projekt2 (1)/sdizo/Console_app.h
+iostream
+-
+cstdlib
+-
+windows.h
+-
+ctime
+-
+time.h
+-
+string
+-
+fstream
+-
+Matrix_rep.h
+C:/Users/kacpe/Downloads/sarzynski_projekt2 (1)/sdizo/Matrix_rep.h
+N_list_rep.h
+C:/Users/kacpe/Downloads/sarzynski_projekt2 (1)/sdizo/N_list_rep.h
+Reader.h
+C:/Users/kacpe/Downloads/sarzynski_projekt2 (1)/sdizo/Reader.h
+
+C:/Users/kacpe/Downloads/sarzynski_projekt2 (1)/sdizo/Edge.h
+
+C:/Users/kacpe/Downloads/sarzynski_projekt2 (1)/sdizo/Fifo_queue.cpp
+Fifo_queue.h
+C:/Users/kacpe/Downloads/sarzynski_projekt2 (1)/sdizo/Fifo_queue.h
+
+C:/Users/kacpe/Downloads/sarzynski_projekt2 (1)/sdizo/Fifo_queue.h
+iostream
+-
+conio.h
+-
+Edge.h
+C:/Users/kacpe/Downloads/sarzynski_projekt2 (1)/sdizo/Edge.h
+
+C:/Users/kacpe/Downloads/sarzynski_projekt2 (1)/sdizo/Matrix_rep.cpp
+Matrix_rep.h
+C:/Users/kacpe/Downloads/sarzynski_projekt2 (1)/sdizo/Matrix_rep.h
+
+C:/Users/kacpe/Downloads/sarzynski_projekt2 (1)/sdizo/Matrix_rep.h
+iostream
+-
+math.h
+-
+conio.h
+-
+cstdlib
+-
+time.h
+-
+iomanip
+-
+Fifo_queue.h
+C:/Users/kacpe/Downloads/sarzynski_projekt2 (1)/sdizo/Fifo_queue.h
+
+C:/Users/kacpe/Downloads/sarzynski_projekt2 (1)/sdizo/N_list_el.h
+
+C:/Users/kacpe/Downloads/sarzynski_projekt2 (1)/sdizo/N_list_rep.cpp
+N_list_rep.h
+C:/Users/kacpe/Downloads/sarzynski_projekt2 (1)/sdizo/N_list_rep.h
+
+C:/Users/kacpe/Downloads/sarzynski_projekt2 (1)/sdizo/N_list_rep.h
+N_list_el.h
+C:/Users/kacpe/Downloads/sarzynski_projekt2 (1)/sdizo/N_list_el.h
+Edge.h
+C:/Users/kacpe/Downloads/sarzynski_projekt2 (1)/sdizo/Edge.h
+Fifo_queue.h
+C:/Users/kacpe/Downloads/sarzynski_projekt2 (1)/sdizo/Fifo_queue.h
+Matrix_rep.h
+C:/Users/kacpe/Downloads/sarzynski_projekt2 (1)/sdizo/Matrix_rep.h
+iostream
+C:/Users/kacpe/Downloads/sarzynski_projekt2 (1)/sdizo/iostream
+math.h
+C:/Users/kacpe/Downloads/sarzynski_projekt2 (1)/sdizo/math.h
+conio.h
+C:/Users/kacpe/Downloads/sarzynski_projekt2 (1)/sdizo/conio.h
+iomanip
+-
+stdlib.h
+-
+
+C:/Users/kacpe/Downloads/sarzynski_projekt2 (1)/sdizo/Reader.cpp
+Reader.h
+C:/Users/kacpe/Downloads/sarzynski_projekt2 (1)/sdizo/Reader.h
+
+C:/Users/kacpe/Downloads/sarzynski_projekt2 (1)/sdizo/Reader.h
+iostream
+-
+fstream
+-
+conio.h
+-
+string
+-
+cstdlib
+-
+sstream
+-
+Matrix_rep.h
+C:/Users/kacpe/Downloads/sarzynski_projekt2 (1)/sdizo/Matrix_rep.h
+N_list_rep.h
+C:/Users/kacpe/Downloads/sarzynski_projekt2 (1)/sdizo/N_list_rep.h
+
+C:/Users/kacpe/Downloads/sarzynski_projekt2 (1)/sdizo/main.cpp
+Console_app.h
+C:/Users/kacpe/Downloads/sarzynski_projekt2 (1)/sdizo/Console_app.h
+

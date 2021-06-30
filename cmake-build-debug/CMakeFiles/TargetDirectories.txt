@@ -1,0 +1,3 @@
+C:/Users/kacpe/Downloads/sarzynski_projekt2 (1)/sdizo/cmake-build-debug/CMakeFiles/sdizo.dir
+C:/Users/kacpe/Downloads/sarzynski_projekt2 (1)/sdizo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kacpe/Downloads/sarzynski_projekt2 (1)/sdizo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
